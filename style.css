@@ -18,7 +18,14 @@ h1.head-title {
   color: white;
   padding-left: 30px;
   padding-top: 130px;
-  font-weight: 500;
+  font-weight: 00;
+}
+
+.hi-action a{
+    color: #FF4500;
+    font-size: 2em;
+    font-weight: 600;
+    text-decoration: none;
 }
 
 /* Mobile Only */
