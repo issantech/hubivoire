@@ -1,0 +1,101 @@
+body {
+ 
+}
+
+.mainview{
+    background-image: url("./assets/img/HubIvoire-bg.png");
+    background-size: cover;
+    height: 700px;
+}
+
+.Main-logo {
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+h1.head-title {
+  font-size: 4em;
+  color: white;
+  padding-left: 30px;
+  padding-top: 130px;
+  font-weight: 500;
+}
+
+/* Mobile Only */
+@media (min-width: 320px) and (max-width: 500px) {
+
+    .prez h3{
+        color: #FF4500;
+        font-size: 2em !important;
+    }
+    
+    .prez span{
+        font-weight: 400;
+        font-size: 1.5em !important;
+        color: #FF4500 ;
+    }
+
+    h1.head-title {
+        font-size: 2.6em;
+        color: white;
+        padding-left: 30px;
+        padding-top: 130px;
+        font-weight: 500;
+      }
+
+
+      .main-sub{
+        font-weight: 300;
+        font-size: 0.7em;
+    }
+  
+  }
+
+.main-sub{
+    font-weight: 300;
+    font-size: 0.8em;
+}
+
+.space{
+    height: 05em;
+}
+
+
+.mini-caller.text-center h3{
+font-weight: 300;
+}
+
+
+div.tc-style{
+    padding-left: 05em;
+}
+
+footer{
+    background-color: black;
+}
+
+.callto{
+    color: black;
+    text-decoration: none;
+}
+
+
+.callto:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.prez h3{
+    color: #FF4500;
+    font-size: 4em;
+}
+
+.prez span{
+    font-weight: 400;
+    font-size: 2em;
+    color: #FF4500;
+}
+
+.main-title-ih{
+    font-weight: 600;
+}
