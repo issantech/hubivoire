@@ -28,17 +28,28 @@ h1.head-title {
     text-decoration: none;
 }
 
+a .btn .btn-primary{
+    color: black !important;
+    background-color: #ffb80e !important;
+}
+
 /* Mobile Only */
 @media (min-width: 320px) and (max-width: 500px) {
+    .row{
+        padding-left: 100px !important;
+    }
 
+    .hi-action .row{
+        padding-left: 10px !important; 
+    }
     .prez h3{
         color: #FF4500;
         font-size: 2em !important;
     }
     
-    .prez span{
+    .prez p{
         font-weight: 400;
-        font-size: 1.5em !important;
+        font-size: 1.3em !important;
         color: #FF4500 ;
     }
 
@@ -97,12 +108,20 @@ footer{
     font-size: 4em;
 }
 
-.prez span{
-    font-weight: 400;
-    font-size: 2em;
-    color: #FF4500;
+.prez p{
+    font-weight: 300;
+    font-size: 1.5em;
+    color: #131313;
 }
 
 .main-title-ih{
     font-weight: 600;
+}
+
+
+p.our-moto{
+    color: #FF4500;
+    font-family: 'Poppins';
+    font-size: 5em;
+    font-weight:400 ;
 }
