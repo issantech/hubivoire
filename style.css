@@ -2,6 +2,10 @@ body {
  
 }
 
+html{
+    font-family: 'Open Sans';
+}
+
 .mainview{
     background-image: url("./assets/img/HubIvoire-bg.png");
     background-size: cover;
