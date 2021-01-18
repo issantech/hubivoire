@@ -129,3 +129,44 @@ p.our-moto{
     font-size: 5em;
     font-weight:400 ;
 }
+
+
+.col-lg-6.wedo{
+    background-image: url("./assets/img/hub-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 100px;
+}
+
+.believe h4{
+font-size:3em;
+}
+
+.believe h6{
+    background-color: #FF4500;
+    color: white;
+    padding: 3px;
+    width: 90px;
+    font-weight: 300;
+    padding-left: 05px;
+}
+
+
+div h5 .graph{
+    font-family: 'Arial';
+    font-size: 4em;
+}
+
+.btn.btn-primary.profil{
+    background-color: #FF4500;
+    color: white;
+    font-weight: 500;
+    border: 0px
+}
+
+.btn.btn-primary.profil:hover{
+    background-color: #FF4500;
+    color: white;
+    font-weight: 500;
+    border: 0px
+}
