@@ -1,0 +1,95 @@
+h1.head-title{
+    padding-top: 200px;
+    padding-left: 50px;
+    color: white;
+    font-weight: 300;
+
+}
+
+.entr-bg{
+    background-image: url('/assets/img/HubIvoire-bg.jpg');
+    background-size: cover;
+    height: 700px;
+}
+
+.space{
+    height:40px
+}
+
+.title h5{
+    color: #FF4500;
+    font-size: 2em;
+    padding-left: 50px;
+}
+.title p{
+    padding-left: 50px;
+    font-weight: 100;
+}
+
+.title p .todo{
+    padding-left: 50px;
+    font-weight: 100;
+}
+
+
+.data-ih{
+    padding-left: 50px;
+}
+
+/* Mobile Only */
+@media (min-width: 320px) and (max-width: 500px) {
+    .title h5{
+        color: #FF4500;
+        font-size: 1.6em;
+        padding-left: 50px;
+    }
+
+    h1.head-title{
+        padding-top: 200px;
+        padding-left: 30px;
+    }
+    
+    .title p{
+        padding-left: 50px;
+        font-weight: 100;
+    }
+}
+
+a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+.category{
+    padding-left: 50px;
+}
+
+a.order-id{
+    color: #FF4500;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+
+
+.category-item{
+    font-size: 1.5em;
+    font-weight: 300;
+}
+
+.category-user{
+    width: 30%;
+}
+
+.user-name{
+color: #000000;
+font-size: 2em;
+font-weight: 200;
+}
