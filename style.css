@@ -35,7 +35,7 @@ h1.head-title {
   color: white;
   padding-left: 30px;
   padding-top: 130px;
-  font-weight: 00;
+  font-weight: 300;
 }
 
 .hi-action a{
@@ -87,7 +87,7 @@ a .btn .btn-primary{
   }
 
 .main-sub{
-    font-weight: 300;
+    font-weight: 100;
     font-size: 0.8em;
 }
 
